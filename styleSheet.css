@@ -3,3 +3,9 @@ body {
     background-color:LightSteelBlue;
 
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
